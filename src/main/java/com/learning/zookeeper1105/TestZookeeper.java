@@ -1,4 +1,4 @@
-package com.atguigu.zookeeper1105;
+package com.learning.zookeeper1105;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
