@@ -3,7 +3,8 @@ package com.learning.zookeeper1105;
 import org.apache.zookeeper.*;
 
 import java.io.IOException;
-
+//服务器代码，注册，业务等
+//
 public class DistributedServer {
     public static void main(String[] args) throws IOException, KeeperException, InterruptedException {
         //连接zookeeper集群 并注册
